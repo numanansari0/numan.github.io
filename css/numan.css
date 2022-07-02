@@ -451,7 +451,7 @@ b, strong {
 }
 
 .social-links .uil {
-  color: #f7f3f3;
+  color: #000000;
   font-size: 20px;
   display: block;
   margin: 5px 0;
@@ -473,6 +473,9 @@ b, strong {
 
   .color-mode {
     display: none;
+  }
+  .orange{
+    color: #FF9565;
   }
 
   .about-image {
